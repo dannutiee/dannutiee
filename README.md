@@ -41,7 +41,7 @@
 
 ###
 
-<img align="left"  height="240" src="https://github.com/dannutiee/Portfolio_2020/blob/master/public/images/avatar.png?raw=true"  />
+<img align="left"  height="240" src="https://github.com/dannutiee/dannutiee/blob/main/avatar.png?raw=true"  />
 
 ###
 
