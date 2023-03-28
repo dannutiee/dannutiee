@@ -41,7 +41,7 @@
 
 ###
 
-<img align="left"  height="240" src="https://raw.githubusercontent.com/dannutiee/Portfolio_2020/master/public/images/avatar.png?token=GHSAT0AAAAAACAUZOQMNPFXWITYJMV6RGTMZBDIZPQ"  />
+<img align="left"  height="240" src="https://github.com/dannutiee/Portfolio_2020/blob/master/public/images/avatar.png?raw=true"  />
 
 ###
 
@@ -55,6 +55,8 @@
 ###
 
 <div align="center">
+   <a href="https://www.linkedin.com/in/ludwikowska-danuta/" target="_blank">
   <span> You can reach me on Linkedin! </span>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="20" alt="linkedin logo"  />
+     </a />
 </div>
