@@ -50,7 +50,7 @@
 
 ###
 
-<p align="center">...currently, I am based in Poland 🇵🇱 but I aim to try life abroad in the future ✈️ <br /> I work mostly with React & Typescript and I love it! 💜  My current focus is on mastering technical stuff such as data structures and algorithms so I try to become a friend of leetcode on a daily basis 💡. <br /> I also want to dive deeper into Typescript advanced concepts and get familiar with server-side rendering using Next.js. Microservices and docker are also on my learning plan list! <br />Hope to introduce some new skills badges here soon!  🚀</p>
+<p align="center">...currently, I am based in Poland 🇵🇱 but I aim to try life abroad in the future ✈️ <br /> I work mostly with React & Typescript and I love it! 💜  My current focus is on mastering technical stuff such as data structures and algorithms so I try to become a friend of leetcode on a daily basis 💡. <br /> I also want to dive deeper into Typescript advanced concepts and get familiar with server-side rendering using Next.js. Microservices and docker are also on my learning list! <br />Hope to introduce some new skills badges here soon!  🚀</p>
 
 ###
 
