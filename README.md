@@ -1,12 +1,6 @@
 <h2 align="center">Hello 👋!  It's Danuta here 👩‍💻</h2> 
 <h3 align="center"> I am a frontend engineer 🦄  with a background in design 🎨 who enjoys turning ideas into code ✨</h3>
 
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=dannutiee&locale=en&mode=daily&theme=shades-of-purple&hide_border=true&border_radius=5" height="140" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=dannutiee&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true" height="140" alt="stats graph"  />
-</div>
 <br />
 
 ###
