@@ -32,7 +32,7 @@
 
 <br />
 
-
+<!-- 
 ###
 
 <img align="left"  height="240" src="https://github.com/dannutiee/dannutiee/blob/main/avatar.png?raw=true"  />
@@ -53,4 +53,4 @@
   <span> You can reach me on Linkedin! </span>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="20" alt="linkedin logo"  />
      </a />
-</div>
+</div> -->
