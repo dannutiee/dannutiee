@@ -32,25 +32,4 @@
 
 <br />
 
-<!-- 
-###
 
-<img align="left"  height="240" src="https://github.com/dannutiee/dannutiee/blob/main/avatar.png?raw=true"  />
-
-###
-
-
-<h2 align="center">I <del>create</del> fix bugs 🐞 since 2018 and I am not bored yet 😉</h2>
-
-###
-
-<p align="center">...currently, I am based in Poland 🇵🇱 but I aim to try life abroad in the future ✈️ <br /> I work mostly with React & Typescript and I love it! 💜  My current focus is on mastering technical stuff such as data structures and algorithms so I try to become a friend of leetcode on a daily basis 💡. <br /> I also want to dive deeper into Typescript advanced concepts and get familiar with server-side rendering using Next.js. Microservices and docker are also on my learning list! <br />Hope to introduce some new skills badges here soon!  🚀</p>
-
-###
-
-<div align="center">
-   <a href="https://www.linkedin.com/in/ludwikowska-danuta/" target="_blank">
-  <span> You can reach me on Linkedin! </span>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="20" alt="linkedin logo"  />
-     </a />
-</div> -->
