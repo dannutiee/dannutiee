@@ -1,6 +1,15 @@
 <h2 align="center">Hello 👋!  It's Danuta here 👩‍💻</h2> 
-<h3 align="center"> I am a frontend engineer 🦄  with a background in design 🎨 who enjoys turning ideas into code ✨</h3>
+<h3> I am a frontend engineer 🦄  with a background in design 🎨 who enjoys turning ideas into code ✨</h3>
 
+As a frontend engineer with over six years of experience, I excel in JavaScript, TypeScript, and React within agile, product-centric environments. I thrive in cross-functional teams, collaborating seamlessly with colleagues from the frontend, backend development, product management, and design domains. 
+<p>With a deep understanding of the Scrum framework, I've successfully contributed to iterative development cycles, ensuring efficient project delivery while focusing on quality and innovation.</p>
+
+I'm a collaborative and hardworking professional, always eager to learn and stay updated with the latest technologies. I embrace challenges and strive to solve complex problems with innovative solutions.
+
+Since 2020, I've fully embraced remote work, seamlessly collaborating with teams across different time zones and cultures, including diverse international teams from the USA, India, Philippines, Poland, Ukraine, Czech Republic, and Israel. This experience has enhanced my ability to collaborate effectively and thrive in multicultural environments.
+
+I'm always open to exploring new opportunities and discussing how I can add value to innovative product teams. 
+<p> Let's connect! </p>
 <br />
 
 ###
