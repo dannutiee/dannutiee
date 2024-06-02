@@ -1,6 +1,7 @@
 <h2 align="center">Hello there 👋 , I'm Danuta </h2> 
-<h3 align="center"> I'm a frontend engineer with over six years of experience </h3>
-<div align="center"> I love working with JavaScript, TypeScript, and React, building awesome, modern projects and bringing ideas to life. </div> <div align="center"> Thank you for visiting my profile! Here, you can find projects I'm working on in my free time to master the technologies I explore. Feel free to check them out, and don't hesitate to drop me a line if you'd like to <a href="https://www.linkedin.com/in/ludwikowska-danuta/">connect </a>. </div>
+<h3 align="center"> I love working with JavaScript, TypeScript, and React </h3>
+<div align="center"> Thank you for visiting my profile! Here, you can find projects I'm working on in my free time to master technologies I explore. </div> 
+<div align="center"> Feel free to check them out, and don't hesitate to drop me a line if you'd like to <a href="https://www.linkedin.com/in/ludwikowska-danuta/">connect </a>. </div>
 
 <br />
 
